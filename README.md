@@ -49,23 +49,18 @@ bash run.sh
 Evaluate a single applicant profile.
 
 
-**Response:**
+Response:
 json
-
-
-### `GET /api/model-info`
+GET /api/model-info`
 Returns model metadata, accuracy, and AUC.
 
-### `POST /api/batch`
+POST /api/batch`
 Evaluate multiple applicants in one request.
 
-**Request body:**
+Request body:
 json
 
-
-
-## Frontend Features
-
+Frontend Features
  Live eligibility score with animated gauge bar
  Dimension-by-dimension score breakdown
  Key decision drivers with justifications
