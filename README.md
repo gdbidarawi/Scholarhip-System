@@ -50,7 +50,7 @@ Evaluate a single applicant profile.
 
 
 **Response:**
-```json
+json
 
 
 ### `GET /api/model-info`
